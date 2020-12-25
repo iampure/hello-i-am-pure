@@ -1,2 +1,2 @@
 # hello-i-am-pure
-Test
+New to world of code. But let's git it guardians#
